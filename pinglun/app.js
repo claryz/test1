@@ -63,3 +63,4 @@ http.createServer(function (request, response) {
 //7.都不是的时候，else，到404
 //8.根据状态码，重定向判断
 //9.end
+//10.xiugai 修改
